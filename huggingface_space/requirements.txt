@@ -1,0 +1,16 @@
+torch==2.0.1
+torchvision==0.15.2
+diffusers==0.27.0
+transformers==4.32.1
+accelerate
+omegaconf
+einops
+decord==0.6.0
+imageio
+imageio-ffmpeg
+onnxruntime-gpu
+opencv-python-headless
+Pillow
+huggingface_hub
+pyyaml
+gradio>=4.0.0
